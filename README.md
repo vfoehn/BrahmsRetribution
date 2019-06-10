@@ -8,7 +8,7 @@ I created Brahms' Retribution to familiarize myself with the Framework LibGDX. C
 To launch the game in Android Studio you can follow these instructions:
 1. Open BrahmsRetribution in Android Studio
 2. Select the *Gradle* tab on the very right hand side
-3. Select *:desktop* dropdown
+3. Select *:desktop* button dropdown
 4. Press *Execute Gradle Task* above
 5. Enter "dist" in the command line
 
